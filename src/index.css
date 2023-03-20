@@ -1,0 +1,35 @@
+.footer {
+  display: flex;
+  color: white;
+  background-color: #212529;
+  padding: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.bV {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+  background: no-repeat;
+  background-size: cover;
+  transition: 1s;
+  opacity: 0.5;
+}
+
+.ele {
+  color: #5907c5;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.badge {
+  color: #bf2424;
+}

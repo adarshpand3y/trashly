@@ -1,0 +1,38 @@
+[
+    {
+        "email": "user1@gmail.com",
+        "phone": "6291135343",
+        "password": "user1",
+        "type": "user"
+    },
+    {
+        "email": "user2@gmail.com",
+        "phone": "1234567891",
+        "password": "user2",
+        "type": "user"
+    },
+    {
+        "email": "user3@gmail.com",
+        "phone": "1234567892",
+        "password": "user3",
+        "type": "user"
+    },
+    {
+        "email": "trader1@gmail.com",
+        "phone": "1234567891",
+        "password": "trader1",
+        "type": "trader"
+    },
+    {
+        "email": "trader2@gmail.com",
+        "phone": "1234567894",
+        "password": "trader2",
+        "type": "trader"
+    },
+    {
+        "email": "trader3@gmail.com",
+        "phone": "1234567895",
+        "password": "trader3",
+        "type": "trader"
+    }
+]
